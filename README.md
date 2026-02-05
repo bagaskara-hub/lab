@@ -2,8 +2,6 @@
 
 - NAME: BAGASKARA LEO
 - COUNTRY : INDONESIA
+- SEX : MALE
 
-sfdksjfsd
-fsdf
-sf
-sd
+12134
